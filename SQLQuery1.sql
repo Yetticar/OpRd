@@ -1,0 +1,2 @@
+﻿Select g.Id, t.Email, g.School, g.Summary, g.CostRequested, g.Votes, p.email FROM grants g, teachers t, Principal p WHERE (g.PrincipalApproval = 'Yes') AND (g.BoardApproval = 'Yes') AND (g.Archived = 'No') and g.TeacherName = t.Name and 
+p.School= g.school order by g.Id

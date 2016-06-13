@@ -1,0 +1,1 @@
+﻿select max(Id) from grants
