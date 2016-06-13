@@ -1,0 +1,194 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+This file is used by the publish/package process of your Web project. You can customize the behavior of this process
+by editing this MSBuild file. In order to learn more about this please visit http://go.microsoft.com/fwlink/?LinkID=208121. 
+-->
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+    <EncryptedPassword>AQAAANCMnd8BFdERjHoAwE/Cl+sBAAAA+95/nmbwtkGwrIAvdtN4bwAAAAACAAAAAAADZgAAwAAAABAAAACxva13k7H+HItf/ltWGo6cAAAAAASAAACgAAAAEAAAAM0r6iT0rD/ate1E5rnPVR0YAAAA61k5/4elPY17naW+zACsc+9OROSlSv3jFAAAAPrXqQ5eLi4eyK0TWqZijZZRF3+N</EncryptedPassword>
+    <_PublishTargetUrl>ftp://waws-prod-sn1-031.ftp.azurewebsites.windows.net/site/wwwroot</_PublishTargetUrl>
+  </PropertyGroup>
+  <ItemGroup>
+    <File Include="applecenter1.jpg">
+      <publishTime>06/02/2016 15:46:28</publishTime>
+    </File>
+    <File Include="applecenter2.jpg">
+      <publishTime>06/02/2016 14:37:56</publishTime>
+    </File>
+    <File Include="applecenter4.jpg">
+      <publishTime>06/02/2016 15:52:28</publishTime>
+    </File>
+    <File Include="applecenter5.jpg">
+      <publishTime>06/03/2016 11:46:42</publishTime>
+    </File>
+    <File Include="Archived.aspx">
+      <publishTime>06/03/2016 14:32:56</publishTime>
+    </File>
+    <File Include="balloon1.jpg">
+      <publishTime>06/02/2016 14:54:17</publishTime>
+    </File>
+    <File Include="balloon3.jpg">
+      <publishTime>06/02/2016 15:09:37</publishTime>
+    </File>
+    <File Include="bin/jc.dll">
+      <publishTime>06/03/2016 14:37:02</publishTime>
+    </File>
+    <File Include="bin/jc.xml">
+      <publishTime>06/03/2016 14:37:02</publishTime>
+    </File>
+    <File Include="bin/Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll">
+      <publishTime>04/18/2016 15:26:40</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.exe.config">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/csc.rsp">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.exe">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/csi.rsp">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.Build.Tasks.CodeAnalysis.dll">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.dll">
+      <publishTime>05/13/2016 17:51:28</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.CSharp.Scripting.dll">
+      <publishTime>05/13/2016 17:51:28</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.dll">
+      <publishTime>05/13/2016 17:51:28</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.Scripting.dll">
+      <publishTime>05/13/2016 17:51:28</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CodeAnalysis.VisualBasic.dll">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.CSharp.Core.targets">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.amd64.dll">
+      <publishTime>05/13/2016 17:51:28</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.DiaSymReader.Native.x86.dll">
+      <publishTime>05/13/2016 17:51:28</publishTime>
+    </File>
+    <File Include="bin/roslyn/Microsoft.VisualBasic.Core.targets">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.AppContext.dll">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Collections.Immutable.dll">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Diagnostics.StackTrace.dll">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.dll">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.IO.FileSystem.Primitives.dll">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/System.Reflection.Metadata.dll">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.exe.config">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/vbc.rsp">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="bin/roslyn/VBCSCompiler.exe.config">
+      <publishTime>05/13/2016 17:51:30</publishTime>
+    </File>
+    <File Include="coffetable1.jpg">
+      <publishTime>06/03/2016 09:07:52</publishTime>
+    </File>
+    <File Include="Content/bootstrap.cerulean.css">
+      <publishTime>04/29/2016 14:25:39</publishTime>
+    </File>
+    <File Include="Content/bootstrap.cerulean.min.css">
+      <publishTime>04/22/2016 09:54:15</publishTime>
+    </File>
+    <File Include="Default.aspx">
+      <publishTime>05/18/2016 14:35:42</publishTime>
+    </File>
+    <File Include="Default.html">
+      <publishTime>05/17/2016 13:42:57</publishTime>
+    </File>
+    <File Include="ForgotPassword.aspx">
+      <publishTime>06/03/2016 14:01:30</publishTime>
+    </File>
+    <File Include="ForgotUsername.aspx">
+      <publishTime>06/02/2016 15:40:14</publishTime>
+    </File>
+    <File Include="kaboompics.com_Happy Coffee1.jpg">
+      <publishTime>06/02/2016 16:59:34</publishTime>
+    </File>
+    <File Include="kidinglasses1.jpg">
+      <publishTime>06/02/2016 15:39:37</publishTime>
+    </File>
+    <File Include="ladywithcoffee1.jpg">
+      <publishTime>06/03/2016 13:26:17</publishTime>
+    </File>
+    <File Include="laptoppurse1.jpg">
+      <publishTime>06/02/2016 16:26:48</publishTime>
+    </File>
+    <File Include="Login.aspx">
+      <publishTime>06/03/2016 14:06:39</publishTime>
+    </File>
+    <File Include="packages.config">
+      <publishTime>06/01/2016 11:42:11</publishTime>
+    </File>
+    <File Include="pexels-photo3.jpg">
+      <publishTime>05/18/2016 14:45:50</publishTime>
+    </File>
+    <File Include="PrecompiledApp.config">
+      <publishTime>06/03/2016 14:37:06</publishTime>
+    </File>
+    <File Include="Principal.aspx">
+      <publishTime>06/03/2016 14:19:05</publishTime>
+    </File>
+    <File Include="Register.aspx">
+      <publishTime>06/03/2016 11:40:22</publishTime>
+    </File>
+    <File Include="Schools.aspx">
+      <publishTime>06/03/2016 14:32:56</publishTime>
+    </File>
+    <File Include="Successful.aspx">
+      <publishTime>06/02/2016 17:08:55</publishTime>
+    </File>
+    <File Include="teacherpage.aspx">
+      <publishTime>06/03/2016 13:50:14</publishTime>
+    </File>
+    <File Include="Users.aspx">
+      <publishTime>06/03/2016 14:32:56</publishTime>
+    </File>
+    <File Include="Web.config">
+      <publishTime>06/01/2016 13:49:32</publishTime>
+    </File>
+    <File Include="WebForm1.aspx">
+      <publishTime>06/03/2016 14:29:23</publishTime>
+    </File>
+    <File Include="WebForm3.aspx">
+      <publishTime>06/03/2016 11:02:06</publishTime>
+    </File>
+  </ItemGroup>
+</Project>
